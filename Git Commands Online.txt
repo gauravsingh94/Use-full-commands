@@ -1,0 +1,14 @@
+****** Steps and Commands to Push the Git Hub Respositories Online on the Git Hub Website ******
+
+Step1. Create the Repository on the Git Hub.
+
+Step2. Copy the link of the Repository from the GitHub
+
+Step3. Open the hyper terminal 
+
+Step4. Use these commads in the terminal
+
+1. git remote add origin <links of the repository>
+2. git push -u origin master
+
+Step5. Done we have push our repository Successfully to the github

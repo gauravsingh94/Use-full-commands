@@ -1,0 +1,11 @@
+****Commands to make push git repositories locally****
+
+1. git init            // for iniatilizing the git repositories
+2. ls -a		// for seeing the git repositories
+3. git status               // it will show that which file is not commited yet in the red colour
+4. git add <file name>       // this command is used to add the file in the git 
+5  git status 
+6. git commit -m "Add the message to add the discription of the commit for better understanding"
+7. git log               // This will show that details of the git repositories push 
+
+9. git add .     // this will add the whole file of the folder to the git repository
